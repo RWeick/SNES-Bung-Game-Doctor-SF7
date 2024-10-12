@@ -1,6 +1,8 @@
 # Bung-Game-Doctor-SF7
 The Kicad files and rom for the Bung Game Doctor SF7
 
+This board is on order right now. I will update when I have confirmed no issues with the production files.
+
 Mainboard PCB Thickness: 1.6 mm
 RAM PCB Thicknesses: 1.2 mm
 SNES Attachment PCB Thickness: 1.2 mm
