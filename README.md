@@ -1,5 +1,5 @@
-# Bung-Game-Doctor-SF7
-The Kicad files and rom for the Bung Game Doctor SF7
+# SNES-Bung-Game-Doctor-SF7
+The Kicad files and rom for the Bung Game Doctor SF7 for the SNES
 
 This board is on order right now. I will update when I have confirmed no issues with the production files.
 
